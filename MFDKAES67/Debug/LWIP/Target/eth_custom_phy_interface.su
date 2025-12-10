@@ -1,0 +1,2 @@
+../LWIP/Target/eth_custom_phy_interface.c:56:9:eth_phy_init	16	static
+../LWIP/Target/eth_custom_phy_interface.c:71:9:eth_phy_get_link_state	16	static

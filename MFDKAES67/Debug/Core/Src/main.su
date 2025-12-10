@@ -1,0 +1,13 @@
+../Drivers/CMSIS/Include/core_cm7.h:1871:22:__NVIC_SetPriorityGrouping	24	static
+../Core/Src/main.c:127:13:init_phase_increments	24	static
+../Core/Src/main.c:138:13:generate_sine_frame_int32	48	static
+../Core/Src/main.c:168:13:pack_samples_big_endian	40	static
+../Core/Src/main.c:185:13:send_rtp_datagram	32	static
+../Core/Src/main.c:201:13:send_rtp_frame_fragmented	48	static
+../Core/Src/main.c:254:5:main	8	static
+../Core/Src/main.c:337:6:SystemClock_Config	120	static
+../Core/Src/main.c:388:13:MX_GPIO_Init	24	static
+../Core/Src/main.c:415:6:StartDefaultTask	56	static
+../Core/Src/main.c:472:6:MPU_Config	24	static
+../Core/Src/main.c:507:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:525:6:Error_Handler	4	static,ignoring_inline_asm
